@@ -13,7 +13,7 @@
   <li><a href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
   <li><a href="https://daw.victorcorral.com/pokemon/"> 
     <a target="_blank" align="center">
-        <img height="30" width="30" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+        <img height="5" width="5" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
     </a>
     Pokedex con REACT</a></li>
   <li><a href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
