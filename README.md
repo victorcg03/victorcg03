@@ -21,6 +21,7 @@
   <li><a href="https://daw.victorcorral.com/eliminar-pelotas">🎯 Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a></li>
   <li><a href="https://daw.victorcorral.com/simon-dice">📏 Clásico juego de Simon Dice</a></li>
   <li><a href="https://daw.victorcorral.com/pareja-cartas">🃏 Juego de encontrar parejas de cartas</a></li>
+  <li><a href="https://daw.victorcorral.com/pokemon/">🃏 Pokedex</a></li>
 </ul>
 <hr>
 <h3>🧠 Habilidades y conocimientos</h3>
