@@ -1,4 +1,4 @@
-![logo-react](https://github.com/user-attachments/assets/25ee9db6-ed7d-4946-92ba-e29bd826e075)<h1 align="center">¡Hola! 👋 Me llamo Victor, y soy desarrollador web 👨‍💻</h1>
+<h1 align="center">¡Hola! 👋 Me llamo Victor, y soy desarrollador web 👨‍💻</h1>
 <h2 align="center">Técnico en Sistemas Microinformáticos y Redes / Desarrollador WEB 💻 - 📍 Valencia</h2>
 <ul>
   <li>
