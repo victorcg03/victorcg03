@@ -8,7 +8,7 @@
 <li><p>📚Me encanta aprender nuevas cosas, tanto frameworks, lenguajes... el mundo de la programación avanza constantemente, y hay que hacerlo junto a el.</p></li>
 </ul>
 <hr>
-<p>🛠Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</p>
+<h3>🛠Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</h3>
 <ul>
   <li><a href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
   <li><a href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
@@ -21,4 +21,40 @@
   <li><a href="https://daw.victorcorral.com/eliminar-pelotas">🎯 Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a></li>
   <li><a href="https://daw.victorcorral.com/simon-dice">📏 Clásico juego de Simon Dice</a></li>
   <li><a href="https://daw.victorcorral.com/pareja-cartas">🃏 Juego de encontrar parejas de cartas</a></li>
+</ul>
+<hr>
+<h3>🧠 Habilidades y conocimientos</h3>
+<ul>
+  <li>Lenguajes
+    <ul>
+      <li>Java</li>
+      <li>PHP</li>
+      <li>JavaScript</li>
+    </ul>
+  </li>
+  <li>Desarollo Front-end
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+    </ul>
+  </li>
+      <li>Frameworks
+    <ul>
+      <li>React (aprendiendo)</li>
+      <li>JQuery básico</li>
+    </ul>
+  </li>
+    <li>Hosting
+    <ul>
+      <li>Apache - Ubuntu</li>
+    </ul>
+  </li>
+      <li>Herramientas
+    <ul>
+      <li>Visual Studio Code</li>
+      <li>Github</li>
+      <li>Git</li>
+      <li>IntelliJ</li>
+    </ul>
+  </li>
 </ul>
