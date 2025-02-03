@@ -44,6 +44,13 @@
       <li>JQuery básico</li>
     </ul>
   </li>
+        <li>Bases de datos
+          <ul>
+            <li>MySql</li>
+            <li>Oracle</li>
+            <li>MongoDB (aprendiendo)</li>
+          </ul>
+  </li>
     <li>Hosting
     <ul>
       <li>Apache - Ubuntu</li>
