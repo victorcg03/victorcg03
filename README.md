@@ -12,13 +12,13 @@
 <ul>
   <li><a href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
   <li><a href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
-  <li><a href="https://daw.victorcorral.com/combate-cartas-pokemon">Juego de cartas Pokémon</a></li>
-  <li><a href="https://daw.victorcorral.com/buscaminas">Clásico juego del buscaminas (versión Low Cost)</a></li>
-  <li><a href="https://daw.victorcorral.com/fetch-usuarios">Aplicación de usuarios para practicar llamadas a APIs</a></li>
-  <li><a href="https://daw.victorcorral.com/reproductor-multimedia">Reproductor multimedia sencillo con controles</a></li>
-  <li><a href="https://daw.victorcorral.com/AdivinaPalabra">Juego de adivinar la palabra por letras</a></li>
-  <li><a href="https://daw.victorcorral.com/calculadora">Calculadora sencilla pero funcional</a></li>
-  <li><a href="https://daw.victorcorral.com/eliminar-pelotas">Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a></li>
-  <li><a href="https://daw.victorcorral.com/simon-dice">Clásico juego de Simon Dice</a></li>
-  <li><a href="https://daw.victorcorral.com/pareja-cartas">Juego de encontrar parejas de cartas</a></li>
+  <li><a href="https://daw.victorcorral.com/combate-cartas-pokemon">🎮 Juego de cartas Pokémon</a></li>
+  <li><a href="https://daw.victorcorral.com/buscaminas">💣 Clásico juego del buscaminas (versión Low Cost)</a></li>
+  <li><a href="https://daw.victorcorral.com/fetch-usuarios">🙍‍♂️ Aplicación de usuarios para practicar llamadas a APIs</a></li>
+  <li><a href="https://daw.victorcorral.com/reproductor-multimedia">🎥 Reproductor multimedia sencillo con controles</a></li>
+  <li><a href="https://daw.victorcorral.com/AdivinaPalabra">⏳ Juego de adivinar la palabra por letras</a></li>
+  <li><a href="https://daw.victorcorral.com/calculadora">➗ Calculadora sencilla pero funcional</a></li>
+  <li><a href="https://daw.victorcorral.com/eliminar-pelotas">🎯 Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a></li>
+  <li><a href="https://daw.victorcorral.com/simon-dice">📏 Clásico juego de Simon Dice</a></li>
+  <li><a href="https://daw.victorcorral.com/pareja-cartas">🃏 Juego de encontrar parejas de cartas</a></li>
 </ul>
