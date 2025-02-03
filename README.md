@@ -9,14 +9,16 @@
 </ul>
 <hr>
 <p>Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</p>
-<a href="https://stow.victorcorral.com">STOW SHOP - Tienda de ropa online</a>
-<a href="https://daw.victorcorral.com/ohMummy">ohMummy - Videojuego de Amstrad CPC de 1984</a>
-<a href="https://daw.victorcorral.com/combate-cartas-pokemon">Juego de cartas Pokémon</a>
-<a href="https://daw.victorcorral.com/buscaminas">Clásico juego del buscaminas (versión Low Cost)</a>
-<a href="https://daw.victorcorral.com/fetch-usuarios">Aplicación de usuarios para practicar llamadas a APIs</a>
-<a href="https://daw.victorcorral.com/reproductor-multimedia">Reproductor multimedia sencillo ocn controles</a>
-<a href="https://daw.victorcorral.com/AdivinaPalabra">Juego de adivinar la palabra por letras</a>
-<a href="https://daw.victorcorral.com/calculadora">Calculadora sencilla pero funcional</a>
-<a href="https://daw.victorcorral.com/eliminar-pelotas">Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a>
-<a href="https://daw.victorcorral.com/simon-dice">Clasico juego de Simon Dice</a>
-<a href="https://daw.victorcorral.com/pareja-cartas">Juego de encontrar parejas de cartas</a>
+<ul>
+  <li><a href="https://stow.victorcorral.com">STOW SHOP - Tienda de ropa online</a></li>
+  <li><a href="https://daw.victorcorral.com/ohMummy">ohMummy - Videojuego de Amstrad CPC de 1984</a></li>
+  <li><a href="https://daw.victorcorral.com/combate-cartas-pokemon">Juego de cartas Pokémon</a></li>
+  <li><a href="https://daw.victorcorral.com/buscaminas">Clásico juego del buscaminas (versión Low Cost)</a></li>
+  <li><a href="https://daw.victorcorral.com/fetch-usuarios">Aplicación de usuarios para practicar llamadas a APIs</a></li>
+  <li><a href="https://daw.victorcorral.com/reproductor-multimedia">Reproductor multimedia sencillo con controles</a></li>
+  <li><a href="https://daw.victorcorral.com/AdivinaPalabra">Juego de adivinar la palabra por letras</a></li>
+  <li><a href="https://daw.victorcorral.com/calculadora">Calculadora sencilla pero funcional</a></li>
+  <li><a href="https://daw.victorcorral.com/eliminar-pelotas">Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a></li>
+  <li><a href="https://daw.victorcorral.com/simon-dice">Clásico juego de Simon Dice</a></li>
+  <li><a href="https://daw.victorcorral.com/pareja-cartas">Juego de encontrar parejas de cartas</a></li>
+</ul>
