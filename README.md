@@ -11,6 +11,8 @@
 <h3>🛠Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</h3>
 <ul>
   <li><a href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
+  <li><a href="https://daw.victorcorral.com/pokemon/">![image](https://github.com/user-attachments/assets/7d4aac4d-cdd2-4401-a128-9b4aabcb5575)
+Pokedex con REACT</a></li>
   <li><a href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
   <li><a href="https://daw.victorcorral.com/combate-cartas-pokemon">🎮 Juego de cartas Pokémon</a></li>
   <li><a href="https://daw.victorcorral.com/buscaminas">💣 Clásico juego del buscaminas (versión Low Cost)</a></li>
@@ -21,7 +23,7 @@
   <li><a href="https://daw.victorcorral.com/eliminar-pelotas">🎯 Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a></li>
   <li><a href="https://daw.victorcorral.com/simon-dice">📏 Clásico juego de Simon Dice</a></li>
   <li><a href="https://daw.victorcorral.com/pareja-cartas">🃏 Juego de encontrar parejas de cartas</a></li>
-  <li><a href="https://daw.victorcorral.com/pokemon/">🃏 Pokedex</a></li>
+
 </ul>
 <hr>
 <h3>🧠 Habilidades y conocimientos</h3>
