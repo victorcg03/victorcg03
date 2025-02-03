@@ -1,17 +1,17 @@
-<h1 align="center">¡Hola! Me llamo Victor, y soy desarrollador web</h1>
-<h2 align="center">Técnico en Sistemas Microinformáticos y Redes / Desarrollador WEB</h2>
+<h1 align="center">¡Hola! 👋 Me llamo Victor, y soy desarrollador web 👨‍💻</h1>
+<h2 align="center">Técnico en Sistemas Microinformáticos y Redes / Desarrollador WEB 💻</h2>
 <ul>
   <li>
     <p>Desde pequeño he sido un apasionado de la informática, trasteaba con portátiles viejos que habia por casa e investigaba que habia dentro. Luego aprendí sobre hardware viendo videos y acabé estudiando un Ciclo Formativo de Grado Medio de Sistemas Microinformático y redes. Pero realmente, lo que de verdad quería ser era programador. Lo sabia desde el instituto, cuando estando en 2º de la ESO, me ponían a hacer scripts y ejercicios de bachiller, porque el nivel de mi curso se me quedaba corto.</p>
   </li>
-<li><p>Actualmente estoy estudiando un Ciclo Formativo de Grado Superior de Desarollo de Aplicaciones Web en <a href="https://portal.edu.gva.es/fpcheste/">CIPFP Cheste</a></p></li>
-<li><p>Me encanta aprender nuevas cosas, tanto frameworks, lenguajes... el mundo de la programación avanza constantemente, y hay que hacerlo junto a el.</p></li>
+<li><p>👨‍🎓Actualmente estoy estudiando un Ciclo Formativo de Grado Superior de Desarollo de Aplicaciones Web en <a href="https://portal.edu.gva.es/fpcheste/">CIPFP Cheste</a></p></li>
+<li><p>📚Me encanta aprender nuevas cosas, tanto frameworks, lenguajes... el mundo de la programación avanza constantemente, y hay que hacerlo junto a el.</p></li>
 </ul>
 <hr>
-<p>Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</p>
+<p>🛠Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</p>
 <ul>
-  <li><a href="https://stow.victorcorral.com">STOW SHOP - Tienda de ropa online</a></li>
-  <li><a href="https://daw.victorcorral.com/ohMummy">Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
+  <li><a href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
+  <li><a href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
   <li><a href="https://daw.victorcorral.com/combate-cartas-pokemon">Juego de cartas Pokémon</a></li>
   <li><a href="https://daw.victorcorral.com/buscaminas">Clásico juego del buscaminas (versión Low Cost)</a></li>
   <li><a href="https://daw.victorcorral.com/fetch-usuarios">Aplicación de usuarios para practicar llamadas a APIs</a></li>
