@@ -12,7 +12,7 @@
 <ul>
   <li><a href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
   <li><a href="https://daw.victorcorral.com/pokemon/"> <img height="15" width="15" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"> Pokedex con REACT</a></li>
-  <li><a href="https://daw.victorcorral.com/pokemon/">📩 App "Guasap" con NodeJS (mensajeria instantanea)</a></li>
+  <li><a href="https://daw.victorcorral.com/chat-app">📩 App "Guasap" con NodeJS (mensajeria instantanea)</a></li>
   <li><a href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
   <li><a href="https://daw.victorcorral.com/combate-cartas-pokemon">🎮 Juego de cartas Pokémon</a></li>
   <li><a href="https://daw.victorcorral.com/buscaminas">💣 Clásico juego del buscaminas (versión Low Cost)</a></li>
