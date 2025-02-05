@@ -11,7 +11,7 @@
 <h3>🛠Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</h3>
 <ul>
   <li><a target="_blank" href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/pokemon/"> <img height="15" width="15" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"> Pokedex con REACT</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/pokedex-react/"> <img height="15" width="15" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"> Pokedex con REACT</a></li>
   <li><a target="_blank" href="https://guasap.victorcorral.com">📩 App "Guasap" con NodeJS (mensajeria instantanea)</a></li>
   <li><a target="_blank" href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
   <li><a target="_blank" href="https://daw.victorcorral.com/combate-cartas-pokemon">🎮 Juego de cartas Pokémon</a></li>
