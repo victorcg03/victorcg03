@@ -1,10 +1,10 @@
-<h1 align="center">¡Hola! 👋 Me llamo Victor, y soy desarrollador web 👨‍💻</h1>
-<h2 align="center">Técnico en Sistemas Microinformáticos y Redes / Desarrollador WEB 💻 - 📍 Valencia</h2>
+<h1 align="center">¡Hola! 👋 Me llamo Victor, y soy desarrollador 👨‍💻</h1>
+<h2 align="center">Técnico Superior en Desarrollo de Aplicaciones Web (aun qué también hago apps móviles) 💻 - 📍 Valencia</h2>
 <ul>
   <li>
-    <p>Desde pequeño he sido un apasionado de la informática, trasteaba con portátiles viejos que habia por casa e investigaba que habia dentro. Luego aprendí sobre hardware viendo videos y acabé estudiando un Ciclo Formativo de Grado Medio de Sistemas Microinformático y redes. Pero realmente, lo que de verdad quería ser era programador. Lo sabia desde el instituto, cuando estando en 2º de la ESO, me ponían a hacer scripts y ejercicios de bachiller, porque el nivel de mi curso se me quedaba corto.</p>
+    <p>Desde pequeño he sido un apasionado de la informática, trasteaba con portátiles viejos que había por casa e investigaba que había dentro. Luego aprendí sobre hardware viendo videos y acabé estudiando un Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y redes. Pero realmente, lo que de verdad quería ser era programador. Lo sabia desde el instituto, cuando estando en 2º de la ESO, me ponían a hacer scripts y ejercicios de bachiller, porque me aburrian los ejercicios de mi nivel.</p>
   </li>
-<li><p>👨‍🎓Actualmente estoy estudiando un Ciclo Formativo de Grado Superior de Desarollo de Aplicaciones Web en <a href="https://portal.edu.gva.es/fpcheste/">CIPFP Cheste</a></p></li>
+<li><p>👨‍🎓Actualmente estoy estudiando un Ciclo Formativo de Grado Superior de Desarollo de Aplicaciones Web en <a href="https://portal.edu.gva.es/fpcheste/">CIPFP Cheste</a> y estoy de prácticas en Gesvatec haciendo una App en React Native</p></li>
 <li><p>📚Me encanta aprender nuevas cosas, tanto frameworks, lenguajes... el mundo de la programación avanza constantemente, y hay que hacerlo junto a el.</p></li>
 </ul>
 <hr>
@@ -47,6 +47,7 @@
       <li>Frameworks
     <ul>
       <li>React (aprendiendo)</li>
+      <li>React Native (aprendiendo)</li>
       <li>JQuery básico</li>
     </ul>
   </li>
@@ -54,7 +55,7 @@
           <ul>
             <li>MySql</li>
             <li>Oracle</li>
-            <li>MongoDB (aprendiendo)</li>
+            <li>MongoDB básico</li>
           </ul>
   </li>
     <li>Hosting
