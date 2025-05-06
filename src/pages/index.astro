@@ -1,16 +1,33 @@
 ---
-import "../styles/global.css";
+
 ---
 
-<html lang="en">
+// Esta es una página simple centrada con Tailwind
+<html lang="es">
   <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Victor Corral | En desarrollo</title>
+    <link rel="icon" href="/favicon.ico" />
   </head>
-  <body class="bg-gray-800 h-screen w-full flex items-center justify-center">
-    <h1 class="text-3xl text-white font-extrabold">Hello world!</h1>
+  <body
+    class="bg-gray-950 text-white min-h-screen flex items-center justify-center p-6"
+  >
+    <main class="text-center space-y-6">
+      <h1 class="text-4xl md:text-6xl font-bold text-white">
+        🚧 En desarrollo
+      </h1>
+      <p class="text-gray-400 text-lg md:text-xl max-w-md mx-auto">
+        Estoy trabajando en algo increíble. Mientras tanto, puedes visitar mi
+        perfil en GitHub.
+      </p>
+      <a
+        href="https://github.com/victorcg03"
+        target="_blank"
+        class="inline-block mt-4 px-6 py-3 border border-white rounded hover:bg-white hover:text-black transition"
+      >
+        Ir a GitHub →
+      </a>
+    </main>
   </body>
 </html>
