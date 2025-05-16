@@ -1,7 +1,8 @@
-import { personalInfo } from "@/lib/data";
+import { personalInfo as info } from "@/lib/data";
 import { motion } from "framer-motion";
 
 export default function Footer() {
+  const personalInfo = info.es;
   return (
     <footer className="border-t border-purple-500/10 py-6 bg-gradient-to-b from-background to-muted/20 backdrop-blur-sm">
       <div className="container max-w-4xl mx-auto px-6 md:px-4">
@@ -16,8 +17,8 @@ export default function Footer() {
             className="text-sm text-muted-foreground text-center md:text-left"
             whileHover={{ scale: 1.01 }}
           >
-            &copy; {new Date().getFullYear()} {personalInfo.name}. All rights
-            reserved. ✨
+            &copy; {new Date().getFullYear()} {personalInfo.name}. Todos los
+            derechos reservados. ✨
           </motion.p>
           <motion.p
             className="text-sm text-muted-foreground mt-2 md:mt-0 text-center md:text-left"
@@ -27,7 +28,7 @@ export default function Footer() {
             viewport={{ once: true }}
             whileHover={{ scale: 1.01 }}
           >
-            Built with{" "}
+            Hecho con{" "}
             <motion.span
               className="inline-block"
               initial={{ rotate: 0 }}
@@ -36,7 +37,7 @@ export default function Footer() {
             >
               💻
             </motion.span>{" "}
-            and{" "}
+            y{" "}
             <motion.span
               className="inline-block"
               animate={{

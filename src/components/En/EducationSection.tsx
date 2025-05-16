@@ -1,10 +1,9 @@
-import { education } from "@/lib/data";
-import TimelineItem from "./TimelineItem";
-import { Award } from "lucide-react";
-import MotionWrapper from "./MotionWrapper";
-import { motion } from "framer-motion";
+import { education as edu } from "@/lib/data";
+import TimelineItem from "../TimelineItem";
+import MotionWrapper from "../MotionWrapper";
 
 export default function EducationSection() {
+  const education = edu.en;
   return (
     <section
       id="education"

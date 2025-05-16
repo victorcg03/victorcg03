@@ -1,9 +1,10 @@
-import { personalInfo } from "@/lib/data";
+import { personalInfo as info } from "@/lib/data";
 import { Mail, Github, MapPin, Linkedin } from "lucide-react";
 import { motion } from "framer-motion";
-import MotionWrapper from "./MotionWrapper";
+import MotionWrapper from "../MotionWrapper";
 
 export default function HeroSection() {
+  const personalInfo = info.en;
   const containerVariants = {
     hidden: { opacity: 0 },
     visible: {
@@ -48,7 +49,7 @@ export default function HeroSection() {
               className="text-xl text-muted-foreground mb-6"
               variants={childVariants}
             >
-              Desarrollador Web & Mobile 👨‍💻
+              Web & Mobile Developer 👨‍💻
             </motion.p>
 
             <motion.div
@@ -128,40 +129,39 @@ export default function HeroSection() {
               <div className="bg-gradient-to-r from-purple-500/10 to-pink-500/10 backdrop-blur-sm backdrop-filter p-4 rounded-lg border border-purple-500/20 dark:border-purple-500/10 shadow-sm">
                 <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
                   <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-                  👋 Me llamo Víctor y soy desarrollador web y móvil. Desde
-                  pequeño me apasiona la informática: empecé desmontando
-                  portátiles y acabé programando todo lo que se me ocurre. No me
-                  va el diseño, lo mío es picar código, investigar, construir y
-                  aprender cada día algo nuevo.
+                  👋 My name is Víctor and I’m a web and mobile developer. Since
+                  I was a kid I’ve been passionate about tech: I started by
+                  disassembling laptops and ended up programming everything I
+                  can imagine. I’m not into design — I’m into writing code,
+                  building things, researching, and learning something new every
+                  day.
                 </p>
                 <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
                   <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-                  Me encanta programar. Hago cualquier idea, herramienta o
-                  tontería solo por aprender, entretenerme o probar algo nuevo.
-                  Soy curioso, autodidacta, y me gusta investigar cómo funcionan
-                  las cosas. Quiero entender el por qué de todo, no solo hacer
-                  que funcione.
+                  I love programming. I build tools, projects, or even silly
+                  ideas just for fun or to learn something new. I'm curious,
+                  self-taught, and I love to understand how things work. I want
+                  to know the "why", not just make it work.
                 </p>
                 <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
                   <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-                  He trabajado con React, React Native, TypeScript, PHP, HTML,
-                  CSS, Java y también algo de Node.js y Express. He desarrollado
-                  webs corporativas, tiendas online, apps móviles completas e
-                  incluso videojuegos sencillos. Tengo proyectos en GitHub, en
-                  producción y en local. Lo importante es no parar de aprender.
+                  I've worked with React, React Native, TypeScript, PHP, HTML,
+                  CSS, Java, and also some Node.js and Express. I've built
+                  corporate websites, online stores, full mobile apps and even
+                  small games. I have projects on GitHub, in production and on
+                  my local machine. What matters most is to never stop learning.
                 </p>
                 <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
                   <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-                  Me gusta saber cómo funciona todo de principio a fin:
-                  despliego mis propios servidores en Ubuntu, configuro Apache,
-                  Docker, dominios, certificados SSL, bases de datos... todo lo
-                  necesario para llevar un proyecto desde cero hasta producción.
-                  Si hay que pelearse con algo, me peleo.
+                  I like to understand how everything works from start to
+                  finish: I deploy my own servers on Ubuntu, configure Apache,
+                  Docker, domains, SSL certificates, databases... everything
+                  needed to take a project from scratch to production. If
+                  something breaks, I’ll fight it.
                 </p>
                 <p className="text-muted-foreground pl-4 py-2 mb-4 relative font-medium">
                   <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
-                  Si quieres ver lo que he hecho, echa un vistazo a mis
-                  proyectos aquí abajo 👇
+                  Want to see what I've built? Check out my projects below 👇
                 </p>
               </div>
             </MotionWrapper>
