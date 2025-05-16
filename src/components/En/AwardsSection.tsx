@@ -1,11 +1,11 @@
-import React from "react";
-import { awards } from "@/lib/data";
+import { awards as aw } from "@/lib/data";
 import { Trophy } from "lucide-react";
-import MotionWrapper from "./MotionWrapper";
-import { GlassCard } from "./ui/glass-card";
+import MotionWrapper from "../MotionWrapper";
+import { GlassCard } from "../ui/glass-card";
 import { motion } from "framer-motion";
 
 export default function AwardsSection() {
+  const awards = aw.en;
   return (
     awards.length > 0 && (
       <section

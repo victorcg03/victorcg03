@@ -1,20 +1,14 @@
-import React from "react";
-import { projects } from "@/lib/data";
-import {
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "./ui/card";
+import { projects as proj } from "@/lib/data";
+import { CardContent, CardFooter, CardHeader, CardTitle } from "../ui/card";
 import { Github } from "lucide-react";
-import { GlassCard } from "./ui/glass-card";
-import MotionWrapper from "./MotionWrapper";
+import { GlassCard } from "../ui/glass-card";
+import MotionWrapper from "../MotionWrapper";
 import { motion } from "framer-motion";
 
 export default function ProjectsSection() {
+  const projects = proj.es;
   return (
-    <section id="projects" className="py-12 relative">
+    <section id="proyectos" className="py-12 relative">
       <div className="container max-w-4xl mx-auto px-6 md:px-4">
         <MotionWrapper>
           <h2 className="text-2xl font-bold mb-8 text-center md:text-left">
@@ -30,6 +24,17 @@ export default function ProjectsSection() {
                   <CardTitle className="text-center md:text-left group-hover:text-purple-500 transition-colors duration-300">
                     {project.title}
                   </CardTitle>
+                  {project.link && (
+                    <motion.a
+                      href={project.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`Ver ${project.title}`}
+                      className="flex items-center text-sm text-muted-foreground hover:text-purple-500 transition-colors group/link"
+                    >
+                      {project.link}
+                    </motion.a>
+                  )}
                 </CardHeader>
                 <CardContent className="flex-grow">
                   <ul className="list-disc ml-4 space-y-1 text-sm">
