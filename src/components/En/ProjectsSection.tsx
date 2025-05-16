@@ -26,7 +26,7 @@ export default function ProjectsSection() {
                   </CardTitle>
                   {project.link && (
                     <motion.a
-                      href={project.github}
+                      href={project.link}
                       target="_blank"
                       rel="noopener noreferrer"
                       aria-label={`Ver ${project.title}`}
