@@ -24,6 +24,17 @@ export default function ProjectsSection() {
                   <CardTitle className="text-center md:text-left group-hover:text-purple-500 transition-colors duration-300">
                     {project.title}
                   </CardTitle>
+                  {project.link && (
+                    <motion.a
+                      href={project.github}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      aria-label={`Ver ${project.title}`}
+                      className="flex items-center text-sm text-muted-foreground hover:text-purple-500 transition-colors group/link"
+                    >
+                      {project.link}
+                    </motion.a>
+                  )}
                 </CardHeader>
                 <CardContent className="flex-grow">
                   <ul className="list-disc ml-4 space-y-1 text-sm">
