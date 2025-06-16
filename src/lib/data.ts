@@ -221,6 +221,20 @@ export const projects = {
       ],
     },
     {
+      title: "Habitia Agency",
+      github: "https://github.com/victorcg03/Habitia-Agency",
+      link: "https://habitiagency.com",
+      description: [
+        "Landing page desarrollada para una agencia de marketing inmobiliario, enfocada en captar leads mediante diseño visual y storytelling estratégico.",
+        "Construida con Astro, React y Tailwind CSS, implementando animaciones avanzadas con Framer Motion y efectos visuales personalizados.",
+        "Integración completa con Supabase para insertar mensajes del formulario de contacto en tiempo real, incluyendo validaciones con Zod y control de errores UI-friendly.",
+        "Sistema de testimonios animados con Swiper.js, sección FAQ dinámica, CTA visuales y FAB expandible con acceso directo a WhatsApp y formulario.",
+        "Despliegue automatizado en Coolify con Nixpacks y configuración SSR con @astrojs/node standalone, incluyendo rutas protegidas para el panel de administración.",
+        "Autenticación segura en el área `/admin` con cookies httpOnly gestionadas desde Supabase y validación de tokens en el servidor Astro.",
+        "Panel privado con sistema de eliminación de mensajes vía modal personalizada y lógica CRUD segura con políticas RLS y APIs Astro.",
+      ],
+    },
+    {
       title: "RODAAC",
       github: "",
       description: [
@@ -263,6 +277,20 @@ export const projects = {
         "Authentication system with registration, login, and email verification (basic 2FA).",
         "Functional contact form with email sending via PHPMailer.",
         "Relational database with MySQL and hosting on a self-managed Ubuntu server with Apache.",
+      ],
+    },
+    {
+      title: "Habitia Agency",
+      github: "https://github.com/victorcg03/Habitia-Agency",
+      link: "https://habitiagency.com",
+      description: [
+        "Landing page developed for a real estate marketing agency, focused on lead generation through strategic design and storytelling.",
+        "Built with Astro, React, and Tailwind CSS, featuring advanced animations using Framer Motion and customized visual effects.",
+        "Fully integrated with Supabase to insert contact form messages in real-time, including field validation using Zod and user-friendly error handling.",
+        "Animated testimonials using Swiper.js, dynamic FAQ section, visual CTAs, and an expandable FAB with direct access to WhatsApp and contact form.",
+        "Automated deployment with Coolify using Nixpacks, SSR enabled via @astrojs/node standalone, and protected routes for the admin panel.",
+        "Secure authentication in `/admin` area with httpOnly cookies managed through Supabase and server-side token validation in Astro.",
+        "Private dashboard with modal-based message deletion and safe CRUD logic using RLS policies and Astro API routes.",
       ],
     },
     {
