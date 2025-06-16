@@ -1,5 +1,8 @@
 <h1 align="center">¡Hola! 👋 Me llamo Victor, y soy desarrollador 👨‍💻</h1>
-<h2 align="center">Técnico Superior en Desarrollo de Aplicaciones Web (aun qué también hago apps móviles) 💻 - 📍 Valencia</h2>
+<h2 align="center">
+  Técnico Superior en Desarrollo de Aplicaciones Web y desarrollador de apps móviles 💻📱 — 📍 Valencia
+</h2>
+
 <ul>
   <li>
     <p>Desde pequeño he sido un apasionado de la informática, trasteaba con portátiles viejos que había por casa e investigaba que había dentro. Luego aprendí sobre hardware viendo videos y acabé estudiando un Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y redes. Pero realmente, lo que de verdad quería ser era programador. Lo sabia desde el instituto, cuando estando en 2º de la ESO, me ponían a hacer scripts y ejercicios de bachiller, porque me aburrian los ejercicios de mi nivel.</p>
