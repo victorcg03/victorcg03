@@ -24,7 +24,7 @@ export const workExperience = {
       period: "Mar 2025 – Actualidad",
       achievements: [
         "Desarrollo completo de una app móvil empresarial desde cero con React Native y TypeScript, publicada en App Store y Google Play.",
-        "Implementación de login, 2FA, control de sesión, navegación avanzada con `expo-router` (stack, tabs, linking) y soporte para iPad y web.",
+        "Implementación de login, 2FA, control de sesión, navegación avanzada con `expo-router` (stack, tabs, linking) y soporte para iPad.",
         "Refactorización continua enfocada en escalabilidad, arquitectura mantenible y diseño responsive.",
         "Automatización del flujo de release: compilación, subida OTA, publicación en tiendas y subida de source maps a Sentry mediante scripts personalizados.",
         "Integración con API REST segura (JWT + refresh), manejo de errores robusto y sistema de logs contextualizados.",
@@ -61,7 +61,7 @@ export const workExperience = {
       period: "Mar 2025 – Present",
       achievements: [
         "End-to-end development of a mobile business app built with React Native and TypeScript, live on App Store and Google Play.",
-        "Implemented login, 2FA, session control, advanced navigation with `expo-router` (stack, tabs, linking), and support for iPad and web.",
+        "Implemented login, 2FA, session control, advanced navigation with `expo-router` (stack, tabs, linking), and support for iPad.",
         "Ongoing refactor focused on scalability, maintainable architecture, and responsive design.",
         "Custom automated release flow: build, OTA publishing, store uploads and source maps pushed to Sentry.",
         "Secure REST API integration (JWT + refresh), robust error handling and contextual logging system.",
