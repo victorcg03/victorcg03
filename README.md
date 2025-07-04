@@ -1,77 +1,54 @@
-<h1 align="center">¡Hola! 👋 Me llamo Victor, y soy desarrollador 👨‍💻</h1>
+<h1 align="center">¡Hola! 👋 Me llamo Víctor y soy desarrollador web y móvil 👨‍💻</h1>
 <h2 align="center">
-  Técnico Superior en Desarrollo de Aplicaciones Web y desarrollador de apps móviles 💻📱 — 📍 Valencia
+  Desarrollador de React Native en Gesvatec Sistemas S.L. — 📍 Valencia
 </h2>
 
 <ul>
   <li>
-    <p>Desde pequeño he sido un apasionado de la informática, trasteaba con portátiles viejos que había por casa e investigaba que había dentro. Luego aprendí sobre hardware viendo videos y acabé estudiando un Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y redes. Pero realmente, lo que de verdad quería ser era programador. Lo sabia desde el instituto, cuando estando en 2º de la ESO, me ponían a hacer scripts y ejercicios de bachiller, porque me aburrian los ejercicios de mi nivel.</p>
+    <p>Desde pequeño me ha apasionado la informática. Empecé desmontando portátiles por pura curiosidad, aprendí sobre hardware, y estudié un Ciclo Medio de Sistemas Microinformáticos y Redes. Pero lo que realmente quería era programar. Lo supe desde 2º de la ESO, cuando me adelantaban ejercicios porque iba varios cursos por delante.</p>
   </li>
-<li><p>👨‍🎓Actualmente estoy estudiando un Ciclo Formativo de Grado Superior de Desarollo de Aplicaciones Web en <a href="https://portal.edu.gva.es/fpcheste/">CIPFP Cheste</a> y estoy de prácticas en Gesvatec haciendo una App en React Native</p></li>
-<li><p>📚Me encanta aprender nuevas cosas, tanto frameworks, lenguajes... el mundo de la programación avanza constantemente, y hay que hacerlo junto a el.</p></li>
+  <li>
+    <p>Hoy soy <strong>desarrollador de aplicaciones móviles en React Native</strong>. Trabajo en Gesvatec desarrollando una app completa con <strong>TypeScript, Expo, Sentry, i18n</strong> y un sistema de releases automatizado que compila, sube builds a tiendas y publica actualizaciones OTA con control de versiones y subida de source maps.</p>
+  </li>
+  <li>
+    <p>📚 Soy autodidacta, curioso y me encanta aprender nuevos lenguajes, frameworks o herramientas. Me gusta entender cómo funciona todo desde dentro: código, APIs, infraestructura y despliegue.</p>
+  </li>
 </ul>
+
 <hr>
-<h3>🛠Estos son algunos de los proyectos que he ido haciendo, tanto en clase como por mi cuenta:</h3>
+
+<h3>🛠 Proyectos personales y académicos</h3>
 <ul>
   <li><a target="_blank" href="https://stow.victorcorral.com">🛒 STOW SHOP - Tienda de ropa online</a></li>
-  <li><a target="_blank" href="https://drakocatering.victorcorral.com">👨‍🍳 DrakoCatering - Página de Catering de cachimbas</a></li>
-  <li><a target="_blank" href="https://rodaac1.victorcorral.com">👷‍♂️ RODAAC V1 - Página de Empresa de Reformas (acabada)</a></li>
-  <li><a target="_blank" href="https://rodaac.victorcorral.com">👷‍♂️ RODAAC V2 - Página de Empresa de Reformas (no acabada)</a></li>
-  <li><a target="_blank" href="https://pokedex.victorcorral.com"> <img height="15" width="15" alt="react" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"> Pokedex con REACT</a></li>
-  <li><a target="_blank" href="https://guasap.victorcorral.com">📩 App "Guasap" con NodeJS (mensajeria instantanea)</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego de Amstrad CPC de 1984</a></li>
+  <li><a target="_blank" href="https://drakocatering.victorcorral.com">👨‍🍳 DrakoCatering - Página de Catering</a></li>
+  <li><a target="_blank" href="https://rodaac1.victorcorral.com">👷‍♂️ RODAAC V1 - Empresa de Reformas (finalizada)</a></li>
+  <li><a target="_blank" href="https://rodaac.victorcorral.com">👷‍♂️ RODAAC V2 - Rediseño en proceso</a></li>
+  <li><a target="_blank" href="https://pokedex.victorcorral.com">⚛️ Pokédex con React</a></li>
+  <li><a target="_blank" href="https://guasap.victorcorral.com">📩 App "Guasap" con NodeJS</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/ohMummy">🕹 Oh Mummy! - Videojuego retro</a></li>
   <li><a target="_blank" href="https://daw.victorcorral.com/combate-cartas-pokemon">🎮 Juego de cartas Pokémon</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/buscaminas">💣 Clásico juego del buscaminas (versión Low Cost)</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/fetch-usuarios">🙍‍♂️ Aplicación de usuarios para practicar llamadas a APIs</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/reproductor-multimedia">🎥 Reproductor multimedia sencillo con controles</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/AdivinaPalabra">⏳ Juego de adivinar la palabra por letras</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/calculadora">➗ Calculadora sencilla pero funcional</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/eliminar-pelotas">🎯 Juego de eliminar pelotas de colores, para practicar eventos y lógica de programación</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/simon-dice">📏 Clásico juego de Simon Dice</a></li>
-  <li><a target="_blank" href="https://daw.victorcorral.com/pareja-cartas">🃏 Juego de encontrar parejas de cartas</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/buscaminas">💣 Buscaminas en JS</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/fetch-usuarios">🙍‍♂️ App para practicar llamadas a APIs</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/reproductor-multimedia">🎥 Reproductor multimedia</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/AdivinaPalabra">⏳ Juego de adivinar palabra</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/calculadora">➗ Calculadora simple</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/eliminar-pelotas">🎯 Juego de eliminar pelotas</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/simon-dice">📏 Simon Dice</a></li>
+  <li><a target="_blank" href="https://daw.victorcorral.com/pareja-cartas">🃏 Parejas de cartas</a></li>
+</ul>
 
-</ul>
 <hr>
-<h3>🧠 Habilidades y conocimientos</h3>
+
+<h3>🧠 Habilidades y tecnologías</h3>
 <ul>
-  <li>Lenguajes
-    <ul>
-      <li>Java</li>
-      <li>PHP</li>
-      <li>JavaScript</li>
-    </ul>
-  </li>
-  <li>Desarollo Front-end
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-    </ul>
-  </li>
-      <li>Frameworks
-    <ul>
-      <li>React (aprendiendo)</li>
-      <li>React Native (aprendiendo)</li>
-      <li>JQuery básico</li>
-    </ul>
-  </li>
-        <li>Bases de datos
-          <ul>
-            <li>MySql</li>
-            <li>Oracle</li>
-            <li>MongoDB básico</li>
-          </ul>
-  </li>
-    <li>Hosting
-    <ul>
-      <li>Apache - Ubuntu</li>
-    </ul>
-  </li>
-      <li>Herramientas
-    <ul>
-      <li>Visual Studio Code</li>
-      <li>Github</li>
-      <li>Git</li>
-      <li>IntelliJ</li>
-    </ul>
-  </li>
+  <li><strong>Lenguajes:</strong> JavaScript / TypeScript, PHP, Java</li>
+  <li><strong>Frontend:</strong> React, React Native, HTML, CSS</li>
+  <li><strong>Backend / APIs:</strong> Node.js, Express, Supabase, Firebase</li>
+  <li><strong>Bases de datos:</strong> MySQL, Oracle, MongoDB (básico)</li>
+  <li><strong>DevOps / Hosting:</strong> Ubuntu Server, Apache, Docker, dominios, SSL</li>
+  <li><strong>Herramientas:</strong> VSCode, Git, GitHub, IntelliJ, Postman</li>
 </ul>
+
+<hr>
+
+<p align="center">🎯 Siempre aprendiendo, siempre construyendo. Puedes ver más en <a href="https://github.com/victorcg03">mi GitHub</a> y en mi <a href="https://victorcorral.com">portfolio</a>.</p>
