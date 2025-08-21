@@ -221,6 +221,16 @@ export const skills = {
 export const projects = {
   es: [
     {
+      title: "Portafolio personal",
+      github: "https://github.com/victorcg03",
+      link: "https://victorcorral.com",
+      description: [
+        "Desarrollo de un portafolio personal en Astro + React junto a traducción de contenidos.",
+        "Implementación de un diseño responsivo y optimización para SEO.",
+        "Integración de animaciones suaves y transiciones utilizando librerías como Framer Motion.",
+      ],
+    },
+    {
       title: "Global IPCert",
       github: "",
       description: [
@@ -288,6 +298,16 @@ export const projects = {
         "Secure authentication using JWT and refresh token, protected API integration, and robust error handling.",
         "Multilingual support with i18next, custom logs, and Sentry for full traceability.",
         "Manual deployment to Play Store and App Store, with advanced local signing and TestFlight testing.",
+      ],
+    },
+    {
+      title: "Personal Portfolio",
+      github: "https://github.com/victorcg03",
+      link: "https://victorcorral.com",
+      description: [
+        "Personal portfolio development with Astro + React and content translation.",
+        "Responsive design implementation and SEO optimization.",
+        "Smooth animations and transitions integration using libraries like Framer Motion.",
       ],
     },
     {
