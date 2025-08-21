@@ -21,7 +21,7 @@ export const workExperience = {
       company: "Gesvatec Sistemas S.L.",
       location: "Valencia, España",
       position: "Desarrollador React Native",
-      period: "Mar 2025 – Actualidad",
+      period: "Mar 2025 - Actualidad",
       achievements: [
         "Desarrollo completo de una app móvil empresarial desde cero con React Native y TypeScript, publicada en App Store y Google Play.",
         "Implementación de login, 2FA, control de sesión, navegación avanzada con `expo-router` (stack, tabs, linking) y soporte para iPad.",
