@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola! 👋 Me llamo Víctor y soy desarrollador web y móvil 👨‍💻</h1>
+<h1 align="center">¡Hola! 👋 Me llamo Víctor y soy desarrollador web, móvil y backend 👨‍💻</h1>
 <h2 align="center">
-  Desarrollador de React Native en Gesvatec Sistemas S.L. — 📍 Valencia
+  Desarrollador React Native y Backend .NET en Gesvatec Sistemas S.L. — 📍 Valencia
 </h2>
 
 <ul>
@@ -8,7 +8,7 @@
     <p>Desde pequeño me ha apasionado la informática. Empecé desmontando portátiles por pura curiosidad, aprendí sobre hardware y estudié un Ciclo Medio de Sistemas Microinformáticos y Redes. Pero lo que realmente quería era programar. Lo supe desde 2º de la ESO, cuando me adelantaban ejercicios porque iba varios cursos por delante.</p>
   </li>
   <li>
-    <p>Hoy soy <strong>desarrollador de aplicaciones móviles en React Native</strong>. Trabajo en Gesvatec desarrollando una app completa con <strong>TypeScript, Expo, Sentry, i18n</strong> y un sistema de releases automatizado que compila, sube builds a tiendas y publica actualizaciones OTA con control de versiones y subida de source maps.</p>
+    <p>Hoy soy <strong>desarrollador de aplicaciones móviles en React Native</strong> y también desarrollo <strong>backend en .NET (C#)</strong>. Trabajo en Gesvatec desarrollando una app completa con <strong>TypeScript, Expo, Sentry, i18n</strong> y un sistema de releases automatizado que compila, sube builds a tiendas y publica actualizaciones OTA con control de versiones y subida de source maps. Además, participo en el desarrollo de la <strong>API</strong> y en el mantenimiento de <strong>migraciones</strong> y evolución del backend.</p>
   </li>
   <li>
     <p>📚 Soy autodidacta, curioso y me encanta aprender nuevos lenguajes, frameworks o herramientas. Me gusta entender cómo funciona todo desde dentro: código, APIs, infraestructura y despliegue.</p>
@@ -41,9 +41,9 @@
 
 <h3>🧠 Habilidades y tecnologías</h3>
 <ul>
-  <li><strong>Lenguajes:</strong> JavaScript / TypeScript, PHP, Java</li>
+  <li><strong>Lenguajes:</strong> JavaScript / TypeScript, C#, PHP, Java</li>
   <li><strong>Frontend:</strong> React, React Native, HTML, CSS, Astro</li>
-  <li><strong>Backend / APIs:</strong> Node.js, Express, Supabase, Firebase</li>
+  <li><strong>Backend / APIs:</strong> Node.js, Express, .NET (ASP.NET Core), Supabase, Firebase</li>
   <li><strong>Bases de datos:</strong> MySQL, Oracle, MongoDB (básico)</li>
   <li><strong>DevOps / Hosting:</strong> Ubuntu Server, Apache, Docker, dominios, SSL, Coolify, Vercel</li>
   <li><strong>Herramientas:</strong> VSCode, Git, GitHub, IntelliJ, Postman</li>
@@ -54,7 +54,7 @@
 <h3>🔧 Stack actual</h3>
 <ul>
   <li><strong>Frontend:</strong> React, React Native, TypeScript, Astro</li>
-  <li><strong>Backend:</strong> Node.js, Express, PHP, Supabase, Firebase</li>
+  <li><strong>Backend:</strong> .NET (C# / ASP.NET Core), Entity Framework Core (migrations), Node.js, Express, PHP, Supabase, Firebase</li>
   <li><strong>DevOps:</strong> Docker, Coolify, GitHub Actions, scripts personalizados para CI/CD</li>
   <li><strong>Control de estado:</strong> Context API (explorando Zustand y Redux)</li>
   <li><strong>Estándares:</strong> Linter, Prettier, Conventional Commits, DRY, código modular y escalable</li>
@@ -67,6 +67,7 @@
 <ul>
   <li>Desarrollo y mantenimiento de una app móvil completa con React Native, publicada en App Store y Google Play.</li>
   <li>Implementación de login, 2FA, navegación compleja con stacks y tabs, internacionalización y control de sesión.</li>
+  <li>Desarrollo y mantenimiento de API backend en <strong>.NET (C#)</strong>, incluyendo endpoints y <strong>migraciones</strong> con Entity Framework Core.</li>
   <li>Diseño y automatización del <strong>flujo de release</strong>: builds automáticos, subida a tiendas, publicación OTA y subida de source maps a Sentry.</li>
   <li>Trabajo en equipo con backend y diseño bajo metodología SCRUM.</li>
 </ul>

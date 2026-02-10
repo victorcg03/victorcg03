@@ -146,10 +146,12 @@ export default function HeroSection() {
                 <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
                   <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>
                   He trabajado con React, React Native, TypeScript, PHP, HTML,
-                  CSS, Java y también algo de Node.js y Express. He desarrollado
-                  webs corporativas, tiendas online, apps móviles completas e
-                  incluso videojuegos sencillos. Tengo proyectos en GitHub, en
-                  producción y en local. Lo importante es no parar de aprender.
+                  CSS, Java, Node.js y Express, y también backend con .NET (C#)
+                  (APIs y migraciones con Entity Framework Core). He
+                  desarrollado webs corporativas, tiendas online, apps móviles
+                  completas e incluso videojuegos sencillos. Tengo proyectos en
+                  GitHub, en producción y en local. Lo importante es no parar de
+                  aprender.
                 </p>
                 <p className="text-muted-foreground pl-4 py-2 mb-4 relative">
                   <span className="absolute left-0 top-0 h-full w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></span>

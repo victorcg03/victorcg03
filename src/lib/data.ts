@@ -20,13 +20,14 @@ export const workExperience = {
     {
       company: "Gesvatec Sistemas S.L.",
       location: "Valencia, España",
-      position: "Desarrollador React Native",
+      position: "Desarrollador React Native / Backend .NET",
       period: "Mar 2025 - Actualidad",
       achievements: [
         "Desarrollo completo de una app móvil empresarial desde cero con React Native y TypeScript, publicada en App Store y Google Play.",
         "Implementación de login, 2FA, control de sesión, navegación avanzada con `expo-router` (stack, tabs, linking) y soporte para iPad.",
         "Refactorización continua enfocada en escalabilidad, arquitectura mantenible y diseño responsive.",
         "Automatización del flujo de release: compilación, subida OTA, publicación en tiendas y subida de source maps a Sentry mediante scripts personalizados.",
+        "Desarrollo y mantenimiento de API backend en .NET (C#), incluyendo endpoints y migraciones con Entity Framework Core.",
         "Integración con API REST segura (JWT + refresh), manejo de errores robusto y sistema de logs contextualizados.",
         "Trabajo diario bajo metodología SCRUM, en colaboración con backend, diseño y QA.",
       ],
@@ -34,7 +35,7 @@ export const workExperience = {
     {
       company: "Freelance - Habitia Agency",
       location: "Valencia, España",
-      position: "Desarrollador Astro `+ React",
+      position: "Desarrollador Astro + React",
       period: "2025",
       achievements: [
         "Desarrollo y revisión completa de una Landing page desarrollada para una agencia de marketing inmobiliario, enfocada en captar leads mediante diseño visual y storytelling estratégico.",
@@ -72,13 +73,14 @@ export const workExperience = {
     {
       company: "Gesvatec Sistemas S.L.",
       location: "Valencia, Spain",
-      position: "React Native Developer",
+      position: "React Native & .NET Backend Developer",
       period: "Mar 2025 – Present",
       achievements: [
         "End-to-end development of a mobile business app built with React Native and TypeScript, live on App Store and Google Play.",
         "Implemented login, 2FA, session control, advanced navigation with `expo-router` (stack, tabs, linking), and support for iPad.",
         "Ongoing refactor focused on scalability, maintainable architecture, and responsive design.",
         "Custom automated release flow: build, OTA publishing, store uploads and source maps pushed to Sentry.",
+        "Backend API development and maintenance in .NET (C#), including endpoints and database migrations with Entity Framework Core.",
         "Secure REST API integration (JWT + refresh), robust error handling and contextual logging system.",
         "Daily work in a SCRUM team with backend, UI/UX and product stakeholders.",
       ],
@@ -155,7 +157,7 @@ export const education = {
 
 export const skills = {
   es: {
-    programmingLanguages: ["TypeScript", "JavaScript", "PHP", "Java"],
+    programmingLanguages: ["TypeScript", "JavaScript", "C#", "PHP", "Java"],
     frontendDevelopment: [
       "React.js",
       "React Native",
@@ -165,7 +167,7 @@ export const skills = {
       "Astro",
       "Next.js (básico)",
     ],
-    backendDevelopment: ["Node.js", "Express.js", "PHP"],
+    backendDevelopment: [".NET (ASP.NET Core)", "Node.js", "Express.js", "PHP"],
     databaseAndStorage: ["MySQL", "MongoDB", "Supabase"],
     cloudAndDevOps: [
       "Docker",
@@ -180,13 +182,14 @@ export const skills = {
       "Expo",
       "Sentry",
       "i18next",
+      "Entity Framework Core (Migrations)",
       "Postman",
       "PHPMailer",
       "Figma",
     ],
   },
   en: {
-    programmingLanguages: ["TypeScript", "JavaScript", "PHP", "Java"],
+    programmingLanguages: ["TypeScript", "JavaScript", "C#", "PHP", "Java"],
     frontendDevelopment: [
       "React.js",
       "React Native",
@@ -196,7 +199,7 @@ export const skills = {
       "Astro",
       "Next.js (basic)",
     ],
-    backendDevelopment: ["Node.js", "Express.js", "PHP"],
+    backendDevelopment: [".NET (ASP.NET Core)", "Node.js", "Express.js", "PHP"],
     databaseAndStorage: ["MySQL", "MongoDB", "Supabase"],
     cloudAndDevOps: [
       "Docker",
@@ -211,6 +214,7 @@ export const skills = {
       "Expo",
       "Sentry",
       "i18next",
+      "Entity Framework Core (Migrations)",
       "Postman",
       "PHPMailer",
       "Figma",
